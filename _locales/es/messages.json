@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Abrir en archive.ph"
+  },
+  "extDesc": {
+    "message": "Añade una opción al menú contextual para archivar enlaces en archive.ph"
+  }
+}

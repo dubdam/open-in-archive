@@ -1,0 +1,4 @@
+# Evita subir archivos temporales o del editor
+.DS_Store
+*.log
+*.pem
