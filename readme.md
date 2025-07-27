@@ -15,7 +15,7 @@ Extensión de Chrome que añade al menú contextual (_click derecho_) la opción
 
 ## 🛡️ Privacidad
 No recolecta datos personales; sólo envía la URL seleccionada a `archive.ph`.  
-Detalles en [PRIVACY.md](PRIVACY.md).
+Detalles en [PRIVACY.md](https://github.com/dubdam/open-in-archive/blob/main/privacy.md).
 
 ## 🎨 Créditos  
 <a href="https://www.flaticon.com/free-icons/unlock" title="unlock icons">Icono “Unlock” creado por Dreamcreateicons - Flaticon</a>
@@ -44,7 +44,7 @@ Chrome extension that adds a context‑menu option to archive any link with [arc
 
 ### 🛡️ Privacy
 No personal data is collected; the extension only sends the selected URL to `archive.ph`.  
-See [PRIVACY_EN.md](PRIVACY.md) for details.
+See [PRIVACY_EN.md](https://github.com/dubdam/open-in-archive/blob/main/privacy.md) for details.
 
 ## 🙌 Was it useful? Send a ⚡
 
