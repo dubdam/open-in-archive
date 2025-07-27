@@ -56,3 +56,8 @@ This application is free but sats are always welcome:
 
 ### 🎨 Credits  
 <a href="https://www.flaticon.com/free-icons/unlock" title="unlock icons">“Unlock” icon created by Dreamcreateicons – Flaticon</a>
+
+
+---
+
+Built and refined with help from ChatGPT (o3).
